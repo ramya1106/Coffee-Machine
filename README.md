@@ -27,7 +27,6 @@ This is a simple Python-based coffee machine simulation program. The program all
 
 ## Eaxmple Output
 
-    ```
     What would you like? (espresso/latte/cappuccino): latte
     Please insert coins.
     how many quarters?: 2
@@ -39,7 +38,6 @@ This is a simple Python-based coffee machine simulation program. The program all
 
 ## Report Example:
 
-    ```
     What would you like? (espresso/latte/cappuccino): report
     Water: 150ml
     Milk: 150ml
